@@ -9,7 +9,7 @@
   
   inputs.src-special_functions-master.flake = false;
   inputs.src-special_functions-master.owner = "ayman-albaz";
-  inputs.src-special_functions-master.ref   = "refs/heads/master";
+  inputs.src-special_functions-master.ref   = "master";
   inputs.src-special_functions-master.repo  = "special-functions";
   inputs.src-special_functions-master.type  = "github";
   
